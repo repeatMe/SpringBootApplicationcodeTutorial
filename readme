@@ -1,0 +1,11 @@
+Create department "pojo" class acc to ur needs of data/ variables
+
+Create DepartmentRepository "interface" repsitory class and extends with jpa
+
+create departmentService interface and departmentService implennt of that class
+      ->made object of DepartmentRepository
+      ->use function of DepartmentRepository to save, delete, get by id
+
+Now made Department controller class and map all the methods with a endpoint 
+ 
+all made a helloController 
